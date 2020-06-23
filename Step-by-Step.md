@@ -9,13 +9,13 @@
     - [Building your website](#subparagraph3)
 - [Create an account](#paragraph1)
 - [Tell Github about yourself, and your needs](#paragraph2)
-- [Creating a repository](#paragraph3)
+- [Creating a repository (repo)](#paragraph3)
 - [Exploring your repo homepage](#paragraph4)
 - [Choosing a theme](#paragraph5)
 - [Check your repo homepage](#paragraph6)
 - [Create your website’s homepage](#paragraph7)
-  - [Using README.md as a guide:](#subparagraph4)
-- [Committing the file](#paragraph8)
+  - [Using README.md as a guide](#subparagraph4)
+- [Committing (saving) the file](#paragraph8)
 - [Making a website header](#paragraph9)
 - [Viewing the final product](#paragraph10)
 
@@ -54,7 +54,7 @@ After creating an account, a survey will pop up, asking you the following:
 - I am interested in: 
   - We left this one blank... 
 
-## 3. Creating a repository: <a name="paragraph3"></a>
+## 3. Creating a repository (repo): <a name="paragraph3"></a>
 
 A repository, or repo, is a folder for a project. You’ll be putting files inside the repo to build your website. Github will save all past versions of your repo, so you can always go back to a previous version.
 
@@ -108,7 +108,7 @@ Now remember how we opened README.md in another tab? Use this as your guide for 
 ![](gh12.PNG)
 ![](gh13.PNG)
 
-## 8. Committing the file: <a name="paragraph8"></a>
+## 8. Committing (saving) the file: <a name="paragraph8"></a>
 
 When you are done, click “commit new file”. It is good practice to add a description. For instance, you could write “first draft of homepage.” This way, if you come back to your GitHub account to resume your website, you’ll remember where you last left off.
 
