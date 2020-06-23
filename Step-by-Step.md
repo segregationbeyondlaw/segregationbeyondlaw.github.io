@@ -44,13 +44,13 @@ Go to [github.com](github.com) and create an account. Under “Username” write
 After creating an account, a survey will pop up, asking you the following:  
 - What kind of work do you do mainly?
   - For this example, we clicked “Other” and typed in “Activist”
-  ![](gh2.PNG)
+  <img src="gh2.PNG" width="541.25" height="465" title="Github Logo">
 - How much programming experience do you have?
   - Click a box with your experience level. It’s ok if the answer is none! We all have to start somewhere. 
-  ![](gh3.PNG)
+  <img src="gh3.PNG" width="391.25" height="170.625" title="Github Logo">
 - What do you plan to use Github for? 
   - Click the box that says “Create a website with GitHub Pages”
-  ![](gh4.PNG)
+  <img src="gh4.PNG" width="401.875" height="520" title="Github Logo">
 - I am interested in: 
   - We left this one blank... 
 
