@@ -37,28 +37,32 @@ Once you’ve chosen a unique domain name, you’re ready to get started. Here, 
 
 ## 1. Create an Account: <a name="paragraph1"></a>
 
+![](1.gif)
+
 Go to [github.com](github.com) and create an account. Under “Username” write the name of your organization or the name of the website you will be creating. My example username will be **segregationbeyondlaw** and the address for the site I set up will be [http://segregationbeyondlaw.github.io](http://segregationbeyondlaw.github.io). Fill ”segregationbeyondlaw” with whatever name you desire (this is the name that will be part of your web address).
-![](gh1.PNG)
+
 
 ## 2. Tell Github about yourself, and your needs: <a name="paragraph2"></a>
+
+![](2.gif)
+ 
 After creating an account, a survey will pop up, asking you the following:  
 - What kind of work do you do mainly?
   - For this example, we clicked “Other” and typed in “Activist”
-  ![](gh2.PNG)
 - How much programming experience do you have?
   - Click a box with your experience level. It’s ok if the answer is none! We all have to start somewhere. 
-  ![](gh3.PNG)
 - What do you plan to use Github for? 
   - Click the box that says “Create a website with GitHub Pages”
-  ![](gh4.PNG)
 - I am interested in: 
   - We left this one blank... 
+  
+
 
 ## 3. Creating a repository (repo): <a name="paragraph3"></a>
 
 A repository, or repo, is a folder for a project. You’ll be putting files inside the repo to build your website. Github will save all past versions of your repo, so you can always go back to a previous version.
 
-![](gh5.PNG)
+ ![](3.gif)
 
 GitHub will now direct you to a page titled “Create a new repository”.
 - Under “Repository name,” type out the full URL of the website you are creating, noting it MUST end in “.github.io”. Use your username/domain name as the first part of the URL. For example, we chose segregationbeyondlaw.github.io. 
@@ -69,69 +73,64 @@ There are two options for your repo: “Public” or “Private”.
 - it’s good practice to include a .README file in your repo, which is a text file that will be the first thing anyone viewing the repo will see. Click the check box next to “Initialize this repository with a README”.
 - In this example we did not use “Add .gitignore” and “Add a license”. “.gitignore” will likely not be important, but if you want to read more about licensing, you can check out GitHub’s info button.
 
-![](gh6.PNG)
+
 
 ## 4. Exploring your repo homepage: <a name="paragraph4"></a>
 
+![](4.gif)
+ 
 Now, let’s take a look at the home page for your repo, which will serve as the backstage for your website (You can also ignore any pop ups). There’s a lot of information here, but luckily, only a couple of clicks will be necessary for you to create a website. Notice two things: 
 - You only have one file: A README.md file with your website name should appear with your description. 
 - You only have one “commit”: Each time you make changes that you save, this will be known as a “commit”. Right now you have just one, since you just started your website. Commits are what provide an edit history. You can return to previous commits if you want to revert your website to its previous state.
 
-![](gh7.PNG)
 
 ## 5. Choosing a theme: <a name="paragraph5"></a>
 
-Click on “Settings,” which is on the rightmost side with a gear icon. On the first page it leads you to, scroll down until you get to the section called “GitHub pages”. Under “Theme Chooser”, click “Choose a theme”. 
+![](5.gif)
 
-![](gh8.PNG)
+Click on “Settings,” which is on the rightmost side with a gear icon. On the first page it leads you to, scroll down until you get to the section called “GitHub pages”. Under “Theme Chooser”, click “Choose a theme”. Your theme is for aesthetic purposes, and you can always go back and change it.  When you’ve chosen one that works for you, click “Select theme”. In our example, we chose “Cayman.” 
 
-Your theme is for aesthetic purposes, and you can always go back and change it.  When you’ve chosen one that works for you, click “Select theme”. In our example, we chose “Cayman.” 
-
-![](gh9.PNG)
 
 ## 6. Check your repo homepage: <a name="paragraph6"></a>
+
+![](6.gif)
 
 Once you choose a theme, you’ll be redirected back to your repo homepage under the “Code” tab, where you will see that new commits have been made. The README.md file has been edited to show you how to format text for your website. 
 -Open README.md in a new tab so you can reference it; you will use the format it shows you to create the “Markdown” files, which will form your website pages. 
 
-![](gh10.PNG)
 
 ## 7. Create your website’s homepage: <a name="paragraph7"></a>
 
+![](7.gif)
+
 Click “Create new file”. You will be directed to another page. Then, in the box that says “Name your file,” type “index.md”. The “.md” stands for markdown. This will create the homepage of your website.
 
-![](gh11.PNG)
-
 ### Using README.md as a guide: <a name="subparagraph4"></a>
+
+![](8.gif)
+
 Now remember how we opened README.md in another tab? Use this as your guide for formatting your home page. You can also click the “preview” tab to see what it will look like. It takes some trial and error, but you can toggle back and forth very easily. 
 
-![](gh12.PNG)
-![](gh13.PNG)
+
 
 ## 8. Committing (saving) the file: <a name="paragraph8"></a>
 
+![](9.gif)
+
 When you are done, click “commit new file”. It is good practice to add a description. For instance, you could write “first draft of homepage.” This way, if you come back to your GitHub account to resume your website, you’ll remember where you last left off.
 
-![](gh14.PNG)
+
 
 ## 9. Making a website header: <a name="paragraph9"></a>
 
+![](10.gif)
+
 Now it’s time to make a header name for your website. If you don’t, your website name will be your URL. 
 - To edit your website header name, in your repo, open the file “_config.yml”. This is the file that determines the configuration of your website. Note your theme is stored here. 
-
-![](gh10.PNG)
-
 - Hit the edit button, indicated by the pencil icon.
-
-![](gh15.PNG)
-
 - Now, type “title: ” and type in the title name of your choosing. In this example, we chose “Segregation Beyond the Law”
-
-![](gh16.PNG)
-
 - **Always remember to commit changes!**
 
-![](gh17.PNG)
 
 ## 10. Viewing the final product:  <a name="paragraph10"></a>
   
