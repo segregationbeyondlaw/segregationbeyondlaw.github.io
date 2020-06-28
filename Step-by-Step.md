@@ -39,8 +39,7 @@ Once you’ve chosen a unique domain name, you’re ready to get started. Here, 
 
 ![](1.gif)
 
-Go to [github.com](github.com) and create an account. Under “Username” write the name of your organization or the name of the website you will be creating. My example username will be **segregationbeyondlaw** and the address for the site I set up will be [http://segregationbeyondlaw.github.io](http://segregationbeyondlaw.github.io). Fill ”segregationbeyondlaw” with whatever name you desire (this is the name that will be part of your web address).
-
+Go to [github.com](github.com) and create an account. Under “Username” write the name of your organization or the name of the website you will be creating. My example username will be **my-own-username** and the address for the site I set up will be [http://segregationbeyondlaw.github.io](http://segregationbeyondlaw.github.io). 
 
 ## 2. Tell Github about yourself, and your needs: <a name="paragraph2"></a>
 
