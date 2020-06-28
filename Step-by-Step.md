@@ -2,7 +2,6 @@
 
 # How to Build a Website 
 ## Part 1: Building Basics
-### Setting up your domain and homepage
 
  - [Introduction](#introduction)
     - [Choosing a platform](#subparagraph1)
