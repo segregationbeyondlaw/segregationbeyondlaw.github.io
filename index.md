@@ -1,6 +1,10 @@
 # Segregation Beyond the Law
 ## How legal systems failed to reverse residential segregation in Minneapolis, Minnesota
 
+<div class="text-purple mb-2">
+  .text-purple on white
+</div>
+
 <p><mark>Marked text</mark></p>
 
 In 1948, the United States Supreme Court case _Shelley v. Kraemer_ made racially restrictive covenants in housing deeds unenforceable by state courts. Five years later, the Minnesota Legislature passed Statute 507.18, prohibiting the creation or enforcement of these restrictions. This raises the question: to what extent did _Shelley v. Kraemer_ and Minnesota Statute 507.18 abate the presence, enforcement, and effects of residential segregation against African Americans in Minneapolis? Research on the continued presence of segregation was conducted through the use of data maps from local organizations Mapping Prejudice and Minnesota Compass. Historical and biographical accounts were used to analyze the _de facto_ enforcement of segregation, and data from the Twin Cities Metropolitan Council and US Census Bureau were used to investigate the socioeconomic outcomes.
