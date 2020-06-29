@@ -133,7 +133,7 @@ Now it’s time to make a header name for your website. If you don’t, your web
 
 ## 10. Viewing the final product:  <a name="paragraph10"></a>
   
-To view your website, type your repository name into the address bar (in my case, segregationbeyondlaw.github.io). The finished product should look something like this:
+To view your website, type your repository name into the address bar (in my case, my-own-username/segbeyondlaw.github.io). The finished product should look something like this:
 
 ![](gh18.PNG)
  
