@@ -8,7 +8,7 @@
     - [Choosing a domain name](#subparagraph2)
     - [Building your website](#subparagraph3)
 - [Create an account](#paragraph1)
-- [Tell Github about yourself, and your needs](#paragraph2)
+- [Tell GitHub about yourself, and your needs](#paragraph2)
 - [Creating a repository (repo)](#paragraph3)
 - [Exploring your repo homepage](#paragraph4)
 - [Choosing a theme](#paragraph5)
@@ -53,13 +53,13 @@ Note that your username must be the same name as the domain you're using for you
 ![](2.gif)
  
 After creating an account, a survey will pop up, asking you the following:  
-- What kind of work do you do mainly?
+- ```What kind of work do you do mainly?```
   - For this example, we clicked “Other” and typed in “Activist”
-- How much programming experience do you have?
+- ```How much programming experience do you have?```
   - Click a box with your experience level. It’s ok if the answer is none! We all have to start somewhere. 
-- What do you plan to use Github for? 
+- ```What do you plan to use Github for?```
   - Click the box that says “Create a website with GitHub Pages”
-- I am interested in: 
+- ```I am interested in:``` 
   - We left this one blank... 
   
 
@@ -70,12 +70,12 @@ A repository, or repo, is a folder for a project. You’ll be putting files insi
 
  ![](3.gif)
 
-GitHub will now direct you to a page titled “Create a new repository”.
+GitHub will now direct you to a page titled ``Create a new repository```.
 - Under ```Repository name,``` type out the full URL of the website you are creating, noting it MUST end in “.github.io”. Use your username/domain name as the first part of the URL. For example, we chose segregationbeyondlaw.github.io. 
 - Under ```Description``` you can add a description if you’d like or leave it blank and come back to it later. 
 There are two options for your repo: ```Public``` or ```Private```.
   - **Public:** People will be able to see your repo on the internet and your edit history of that repo. Of course, given that you’re creating a website, the content will be visible on the internet, anyway.
-  - **Private:** If you’d prefer people not to be able to see your edit history as you update your site, there’s good news for you! As of 2019, free users can make private accounts. However, there is a small catch -- under a free account, no more than three separate github accounts can collaborate. 
+  - **Private:** If you’d prefer people not to be able to see your edit history as you update your site, there’s good news for you! As of 2019, free users can make private accounts. However, there is a small catch -- under a free account, no more than three separate GitHub accounts can collaborate. 
 - it’s good practice to include a .README file in your repo, which is a text file that will be the first thing anyone viewing the repo will see. Click the check box next to ```Initialize this repository with a README”```.
 - In this example we did not use ```Add .gitignore``` and ```Add a license```. ```.gitignore``` will likely not be important, but if you want to read more about licensing, you can check out GitHub’s info button.
 
@@ -86,8 +86,8 @@ There are two options for your repo: ```Public``` or ```Private```.
 ![](4.gif)
  
 Now, let’s take a look at the home page for your repo, which will serve as the backstage for your website (You can also ignore any pop ups). There’s a lot of information here, but luckily, only a couple of clicks will be necessary for you to create a website. Notice two things: 
-- You only have one file: A README.md file with your website name should appear with your description. 
-- You only have one “commit”: Each time you make changes that you save, this will be known as a “commit”. Right now you have just one, since you just started your website. Commits are what provide an edit history. You can return to previous commits if you want to revert your website to its previous state.
+- You only have one file: A ```README.md``` file with your website name should appear with your description. 
+- You only have one ``commit``: Each time you make changes that you save, this will be known as a “commit”. Right now you have just one, since you just started your website. Commits are what provide an edit history. You can return to previous commits if you want to revert your website to its previous state.
 
 
 ## 5. Choosing a theme: <a name="paragraph5"></a>
@@ -115,7 +115,7 @@ Click ```Create new file```. You will be directed to another page. Then, in the 
 
 ![](8.gif)
 
-Now remember how we opened README.md in another tab? Use this as your guide for formatting your home page. You can also click the ```preview``` tab to see what it will look like. It takes some trial and error, but you can toggle back and forth very easily. 
+Now remember how we opened ```README.md``` in another tab? Use this as your guide for formatting your home page. You can also click the ```preview``` tab to see what it will look like. It takes some trial and error, but you can toggle back and forth very easily. 
 
 
 
@@ -123,7 +123,7 @@ Now remember how we opened README.md in another tab? Use this as your guide for 
 
 ![](9.gif)
 
-When you are done, click ```commit new file```. It is good practice to add a description. For instance, you could write “first draft of homepage.” This way, if you come back to your GitHub account to resume your website, you’ll remember where you last left off.
+When you are done, click ```commit new file```. It is good practice to add a description. For instance, you could write ```first draft of homepage.``` This way, if you come back to your GitHub account to resume your website, you’ll remember where you last left off.
 
 
 
@@ -140,7 +140,7 @@ Now it’s time to make a header name for your website. If you don’t, your web
 
 ## 10. Viewing the final product:  <a name="paragraph10"></a>
   
-To view your website, type your repository name into the address bar (in my case, my-own-username/segbeyondlaw.github.io). The finished product should look something like this:
+To view your website, type your repository name into the address bar (in my case, [http://segbeyondlaw.github.io](http://segregationbeyondlaw.github.io)). The finished product in my case looks like this:
 
 ![](gh18.PNG)
  
