@@ -1,9 +1,7 @@
 # Segregation Beyond the Law
 ## How legal systems failed to reverse residential segregation in Minneapolis, Minnesota
 
-<div class="text-purple mb-2">
-  .text-purple on white
-</div>
+![](https://placehold.it/350x90/009955/fff?text=Hello!)
 
 <p><mark>Marked text</mark></p>
 
