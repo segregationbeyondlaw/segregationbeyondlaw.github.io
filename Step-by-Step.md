@@ -39,7 +39,14 @@ Once you’ve chosen a unique domain name, you’re ready to get started. Here, 
 
 ![](1.gif)
 
-Go to [github.com](github.com) and create an account. Under “Username” write the name of your organization or the name of the website you will be creating. My example username will be **my-own-username** and the address for the site I set up will be [http://segregationbeyondlaw.github.io](http://segregationbeyondlaw.github.io). 
+Go to [github.com](github.com) and create an account. Under “Username” write the name of you name website domain you will be creating. My example username will be ```segbeyondlaw``` and the address for the site I set up will be [http://segbeyondlaw.github.io](http://segregationbeyondlaw.github.io). 
+
+### common mistake 
+Note that your username must be the same name as the domain you're using for your website. For example, if I make my username 
+```crazycatlady```, then even if I later try and name my website [http://segbeyondlaw.github.io](segregationbeyondlaw.github.io), it will add your username: [crazycatlady/segbeyondlaw.github.io](crazycatlady/segregationbeyondlaw.github.io). This is bad for two reasons: 
+
+1. It's a super long URL
+2. It's unprofessional and a tad bit embarrasing.
 
 ## 2. Tell Github about yourself, and your needs: <a name="paragraph2"></a>
 
@@ -64,13 +71,13 @@ A repository, or repo, is a folder for a project. You’ll be putting files insi
  ![](3.gif)
 
 GitHub will now direct you to a page titled “Create a new repository”.
-- Under “Repository name,” type out the full URL of the website you are creating, noting it MUST end in “.github.io”. Use your username/domain name as the first part of the URL. For example, we chose segregationbeyondlaw.github.io. 
-- Under “Description” you can add a description if you’d like or leave it blank and come back to it later. 
-There are two options for your repo: “Public” or “Private”.
+- Under ```Repository name,``` type out the full URL of the website you are creating, noting it MUST end in “.github.io”. Use your username/domain name as the first part of the URL. For example, we chose segregationbeyondlaw.github.io. 
+- Under ```Description``` you can add a description if you’d like or leave it blank and come back to it later. 
+There are two options for your repo: ```Public``` or ```Private```.
   - **Public:** People will be able to see your repo on the internet and your edit history of that repo. Of course, given that you’re creating a website, the content will be visible on the internet, anyway.
   - **Private:** If you’d prefer people not to be able to see your edit history as you update your site, there’s good news for you! As of 2019, free users can make private accounts. However, there is a small catch -- under a free account, no more than three separate github accounts can collaborate. 
-- it’s good practice to include a .README file in your repo, which is a text file that will be the first thing anyone viewing the repo will see. Click the check box next to “Initialize this repository with a README”.
-- In this example we did not use “Add .gitignore” and “Add a license”. “.gitignore” will likely not be important, but if you want to read more about licensing, you can check out GitHub’s info button.
+- it’s good practice to include a .README file in your repo, which is a text file that will be the first thing anyone viewing the repo will see. Click the check box next to ```Initialize this repository with a README”```.
+- In this example we did not use ```Add .gitignore``` and ```Add a license```. ```.gitignore``` will likely not be important, but if you want to read more about licensing, you can check out GitHub’s info button.
 
 
 
@@ -87,28 +94,28 @@ Now, let’s take a look at the home page for your repo, which will serve as the
 
 ![](5.gif)
 
-Click on “Settings,” which is on the rightmost side with a gear icon. On the first page it leads you to, scroll down until you get to the section called “GitHub pages”. Under “Theme Chooser”, click “Choose a theme”. Your theme is for aesthetic purposes, and you can always go back and change it.  When you’ve chosen one that works for you, click “Select theme”. In our example, we chose “Cayman.” 
+Click on ```Settings,``` which is on the rightmost side with a gear icon. On the first page it leads you to, scroll down until you get to the section called ```GitHub pages```. Under ```Theme Chooser```, click ```Choose a theme```. Your theme is for aesthetic purposes, and you can always go back and change it.  When you’ve chosen one that works for you, click ```Select theme```. In our example, we chose ```Cayman```. 
 
 
 ## 6. Check your repo homepage: <a name="paragraph6"></a>
 
 ![](6.gif)
 
-Once you choose a theme, you’ll be redirected back to your repo homepage under the “Code” tab, where you will see that new commits have been made. The README.md file has been edited to show you how to format text for your website. 
--Open README.md in a new tab so you can reference it; you will use the format it shows you to create the “Markdown” files, which will form your website pages. 
+Once you choose a theme, you’ll be redirected back to your repo homepage under the ```Code``` tab, where you will see that new commits have been made. The README.md file has been edited to show you how to format text for your website. 
+-Open README.md in a new tab so you can reference it; you will use the format it shows you to create the Markdown files, which will form your website pages. 
 
 
 ## 7. Create your website’s homepage: <a name="paragraph7"></a>
 
 ![](7.gif)
 
-Click “Create new file”. You will be directed to another page. Then, in the box that says “Name your file,” type “index.md”. The “.md” stands for markdown. This will create the homepage of your website.
+Click ```Create new file```. You will be directed to another page. Then, in the box that says ```Name your file,``` type ```index.md”```. The ```.md``` stands for markdown. This will create the homepage of your website.
 
 ### Using README.md as a guide: <a name="subparagraph4"></a>
 
 ![](8.gif)
 
-Now remember how we opened README.md in another tab? Use this as your guide for formatting your home page. You can also click the “preview” tab to see what it will look like. It takes some trial and error, but you can toggle back and forth very easily. 
+Now remember how we opened README.md in another tab? Use this as your guide for formatting your home page. You can also click the ```preview``` tab to see what it will look like. It takes some trial and error, but you can toggle back and forth very easily. 
 
 
 
@@ -116,7 +123,7 @@ Now remember how we opened README.md in another tab? Use this as your guide for 
 
 ![](9.gif)
 
-When you are done, click “commit new file”. It is good practice to add a description. For instance, you could write “first draft of homepage.” This way, if you come back to your GitHub account to resume your website, you’ll remember where you last left off.
+When you are done, click ```commit new file```. It is good practice to add a description. For instance, you could write “first draft of homepage.” This way, if you come back to your GitHub account to resume your website, you’ll remember where you last left off.
 
 
 
@@ -125,9 +132,9 @@ When you are done, click “commit new file”. It is good practice to add a des
 ![](10.gif)
 
 Now it’s time to make a header name for your website. If you don’t, your website name will be your URL. 
-- To edit your website header name, in your repo, open the file “_config.yml”. This is the file that determines the configuration of your website. Note your theme is stored here. 
+- To edit your website header name, in your repo, open the file ```_config.yml```. This is the file that determines the configuration of your website. Note your theme is stored here. 
 - Hit the edit button, indicated by the pencil icon.
-- Now, type “title: ” and type in the title name of your choosing. In this example, we chose “Segregation Beyond the Law”
+- Now, type ```title:``` and type in the title name of your choosing. In this example, we chose “Segregation Beyond the Law”
 - **Always remember to commit changes!**
 
 
