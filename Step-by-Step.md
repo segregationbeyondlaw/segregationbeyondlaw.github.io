@@ -37,7 +37,7 @@ Once you’ve chosen a unique domain name, you’re ready to get started. Here, 
 
 ## 1. Create an Account: <a name="paragraph1"></a>
 
-![](1.gif)
+![]
 
 Go to [github.com](github.com) and create an account. Under “Username” write the name of you name website domain you will be creating. My example username will be ```segbeyondlaw``` and the address for the site I set up will be [http://segbeyondlaw.github.io](http://segregationbeyondlaw.github.io). 
 
@@ -50,7 +50,7 @@ Note that your username must be the same name as the domain you're using for you
 
 ## 2. Tell Github about yourself, and your needs: <a name="paragraph2"></a>
 
-![](2.gif)
+![]
  
 After creating an account, a survey will pop up, asking you the following:  
 - ```What kind of work do you do mainly?```
@@ -68,7 +68,7 @@ After creating an account, a survey will pop up, asking you the following:
 
 A repository, or repo, is a folder for a project. You’ll be putting files inside the repo to build your website. Github will save all past versions of your repo, so you can always go back to a previous version.
 
- ![](3.gif)
+ ![]
 
 GitHub will now direct you to a page titled ``Create a new repository```.
 - Under ```Repository name,``` type out the full URL of the website you are creating, noting it MUST end in “.github.io”. Use your username/domain name as the first part of the URL. For example, we chose segregationbeyondlaw.github.io. 
@@ -83,7 +83,7 @@ There are two options for your repo: ```Public``` or ```Private```.
 
 ## 4. Exploring your repo homepage: <a name="paragraph4"></a>
 
-![](4.gif)
+![]
  
 Now, let’s take a look at the home page for your repo, which will serve as the backstage for your website (You can also ignore any pop ups). There’s a lot of information here, but luckily, only a couple of clicks will be necessary for you to create a website. Notice two things: 
 - You only have one file: A ```README.md``` file with your website name should appear with your description. 
@@ -92,14 +92,14 @@ Now, let’s take a look at the home page for your repo, which will serve as the
 
 ## 5. Choosing a theme: <a name="paragraph5"></a>
 
-![](5.gif)
+![]
 
 Click on ```Settings,``` which is on the rightmost side with a gear icon. On the first page it leads you to, scroll down until you get to the section called ```GitHub pages```. Under ```Theme Chooser```, click ```Choose a theme```. Your theme is for aesthetic purposes, and you can always go back and change it.  When you’ve chosen one that works for you, click ```Select theme```. In our example, we chose ```Cayman```. 
 
 
 ## 6. Check your repo homepage: <a name="paragraph6"></a>
 
-![](6.gif)
+![]
 
 Once you choose a theme, you’ll be redirected back to your repo homepage under the ```Code``` tab, where you will see that new commits have been made. The README.md file has been edited to show you how to format text for your website. 
 -Open README.md in a new tab so you can reference it; you will use the format it shows you to create the Markdown files, which will form your website pages. 
@@ -107,13 +107,13 @@ Once you choose a theme, you’ll be redirected back to your repo homepage under
 
 ## 7. Create your website’s homepage: <a name="paragraph7"></a>
 
-![](7.gif)
+![]
 
 Click ```Create new file```. You will be directed to another page. Then, in the box that says ```Name your file,``` type ```index.md”```. The ```.md``` stands for markdown. This will create the homepage of your website.
 
 ### Using README.md as a guide: <a name="subparagraph4"></a>
 
-![](8.gif)
+![]
 
 Now remember how we opened ```README.md``` in another tab? Use this as your guide for formatting your home page. You can also click the ```preview``` tab to see what it will look like. It takes some trial and error, but you can toggle back and forth very easily. 
 
@@ -121,7 +121,7 @@ Now remember how we opened ```README.md``` in another tab? Use this as your guid
 
 ## 8. Committing (saving) the file: <a name="paragraph8"></a>
 
-![](9.gif)
+![]
 
 When you are done, click ```commit new file```. It is good practice to add a description. For instance, you could write ```first draft of homepage.``` This way, if you come back to your GitHub account to resume your website, you’ll remember where you last left off.
 
@@ -129,7 +129,7 @@ When you are done, click ```commit new file```. It is good practice to add a des
 
 ## 9. Making a website header: <a name="paragraph9"></a>
 
-![](10.gif)
+![]
 
 Now it’s time to make a header name for your website. If you don’t, your website name will be your URL. 
 - To edit your website header name, in your repo, open the file ```_config.yml```. This is the file that determines the configuration of your website. Note your theme is stored here. 
@@ -142,7 +142,7 @@ Now it’s time to make a header name for your website. If you don’t, your web
   
 To view your website, type your repository name into the address bar (in my case, [http://segbeyondlaw.github.io](http://segregationbeyondlaw.github.io)). The finished product in my case looks like this:
 
-![](gh18.PNG)
+
  
   
  
