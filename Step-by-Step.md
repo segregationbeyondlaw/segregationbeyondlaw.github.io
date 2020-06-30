@@ -99,7 +99,7 @@ Click on ```Settings,``` which is on the rightmost side with a gear icon. On the
 
 ## 6. Check your repo homepage: <a name="paragraph6"></a>
 
-![](6.gif)
+![](six.gif)
 
 Once you choose a theme, you’ll be redirected back to your repo homepage under the ```Code``` tab, where you will see that new commits have been made. The README.md file has been edited to show you how to format text for your website. 
 -Open README.md in a new tab so you can reference it; you will use the format it shows you to create the Markdown files, which will form your website pages. 
@@ -107,7 +107,7 @@ Once you choose a theme, you’ll be redirected back to your repo homepage under
 
 ## 7. Create your website’s homepage: <a name="paragraph7"></a>
 
-![](7.gif)
+![](seven.gif)
 
 Click ```Create new file```. You will be directed to another page. Then, in the box that says ```Name your file,``` type ```index.md”```. The ```.md``` stands for markdown. This will create the homepage of your website.
 
