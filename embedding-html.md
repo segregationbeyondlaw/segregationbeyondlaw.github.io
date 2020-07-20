@@ -42,9 +42,9 @@ To make our clickable image, we will start with the `<a>` tag on the outside, wh
 
 Now, on the inside, we can put the `<img>` tag, which works similarly to the image function of Markdown. After `<img>`, you must include the image source, and may include alternative text and/or specify the image size:
 
-**The image source:** This is the file name of the image: `src="image.png"`<br>
-*The alternative text:* This is what users will see if the image doesn't load: `alt="Datacts Logo"`<br>
-*Image size:* This adjusts the size of the image: `style="width:100px;height:100px;"`
+- **The image source:** This is the file name of the image: `src="image.png"`<br>
+- *The alternative text:* This is what users will see if the image doesn't load: `alt="Datacts Logo"`<br>
+- *Image size:* This adjusts the size of the image: `style="width:100px;height:100px;"`
 
 **The `<img>` tag put together:** `<img src="image.png" alt="Datacts Logo" style="width:100px;height:100px;">`
 
