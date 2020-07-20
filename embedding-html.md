@@ -6,8 +6,8 @@ Although Markdown may be very easy to use, it is somewhat limited in what it can
 
 HTML is made up of elements and tags. An **element** is a piece of the website's content and either constitutes text enclosed by two tags or is a tag itself (this is called an empty element because it contains no text, just a tag). A **tag** instructs the browser how to display elements and is enclosed in angle brackets like this: `<tag>`. Except for standalone tags, all tags need a matching end tag in order to define where the element ends. An end tag looks like this: `</tag>`.
 
-Example element: `<tag>text</tag>`<br>
-Example empty element: `<tag>`
+- Example element: `<tag>text</tag>`
+- Example empty element: `<tag>`
 
 ## Embedding HTML in Markdown
 
@@ -56,7 +56,7 @@ Now, on the inside, we can put the `<img>` tag, which works similarly to the ima
 
 *Remember to include quotation marks and to use two semicolons in* `"width:100px;height:100px;"`
 
-It's usually recommended to upload images directly into your repo so you can easily reference them. Click **HERE** to learn how to add images to your repo.
+It's usually recommended to upload images directly into your repo so you can easily reference them. Click **HERE** (USE LINK WITH # TO FIND SPECIFIC PART) to learn how to add images to your repo.
 
 ---
 
