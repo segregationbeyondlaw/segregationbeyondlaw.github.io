@@ -11,14 +11,13 @@ Example empty element: `<tag>`
 
 Because Markdown is translated into HTML before being displayed, HTML elements can be very easily integrated into Markdown files. All you need to do is start typing in HTML. Here are some examples of what you can do with HTML that you can't with Markdown.
 
-First of all, while Markdown does not support <ins>underlined text</ins>, HTML does.
+<b>Underlined Text:</b> First of all, while Markdown does not support <ins>underlined text</ins>, HTML does.
 
-**HTML:** `<ins>Underlined text</ins>` <br>
-**Browswer:** <ins>Underlined text</ins>
+<b>HTML:</b> `<ins>Underlined text</ins>`<br>**Browswer:** <ins>Underlined text</ins>
 
-You can also make single-spaced line breaks in HTML. Normally, Markdown only supports double-spaced line breaks, so this is useful for keeping lines close together.
+<b>Line Breaks:</b> You can also make single-spaced line breaks in HTML. Normally, Markdown only supports double-spaced line breaks, so this is useful for keeping lines close together.
 
-**HTML:** `Line 1<br>Line 2`<br>**Browser:**<br>Line 1<br>Line 2
+<b>HTML:</b> `Line 1<br>Line 2`<br>**Browser:**<br>Line 1<br>Line 2
 
 ### Clickable Images ###
 
