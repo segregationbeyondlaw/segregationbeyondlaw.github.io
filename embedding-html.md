@@ -1,5 +1,7 @@
 # Embedding HTML
 
+## HTML Basics
+
 Although Markdown may be very easy to use, it is somewhat limited in what it can do. Luckily, it is very easy to include HTML in your Markdown files, which opens up many more options for customization of your website.
 
 HTML is made up of elements and tags. An **element** is a piece of the website's content and either constitutes text enclosed by two tags or is a tag itself (this is called an empty element because it contains no text, just a tag). A **tag** instructs the browser how to display elements and is enclosed in angle brackets like this: `<tag>`. Except for standalone tags, all tags need a matching end tag in order to define where the element ends. An end tag looks like this: `</tag>`.
@@ -7,15 +9,19 @@ HTML is made up of elements and tags. An **element** is a piece of the website's
 Example element: `<tag>text</tag>`<br>
 Example empty element: `<tag>`
 
-### Embedding HTML in Markdown
+## Embedding HTML in Markdown
 
 Because Markdown is translated into HTML before being displayed, HTML elements can be very easily integrated into Markdown files. All you need to do is start typing in HTML. Here are some examples of what you can do with HTML that you can't with Markdown.
 
-***Underlined Text:*** First of all, while Markdown does not support <ins>underlined text</ins>, HTML does.
+### Underlined Text
+
+First of all, while Markdown does not support <ins>underlined text</ins>, HTML does.
 
 **HTML:** `<ins>Underlined text</ins>`<br>**Browswer:** <ins>Underlined text</ins>
 
-***Line Breaks:*** You can also make single-spaced line breaks in HTML. Normally, Markdown only supports double-spaced line breaks, so this is useful for keeping lines close together.
+### Line Breaks
+
+You can also make single-spaced line breaks in HTML. Normally, Markdown only supports double-spaced line breaks, so this is useful for keeping lines close together.
 
 **HTML:** `Line 1<br>Line 2`<br>**Browser:**<br>Line 1<br>Line 2
 
