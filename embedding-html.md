@@ -45,6 +45,12 @@ You can color text or give text colorful backgrounds or borders using HTML. This
 
 **HTML:** `<span style="border:2px solid red;">Red Text</span>`<br>**Browser:** <span style="border:2px solid red;">Red Text</span>
 
+### Buttons
+
+Buttons are always fun to add to websites. You can do this with the `<button>` tag. This one looks a little more complicated (it actually uses a little JavaScript), but it works perfectly fine in any Markdown or HTML file.
+
+**HTML:** `<button onclick="window.location.href='index.md'">Home</button>`<br>**Browswer:** <button onclick="window.location.href='index.md'">Home</button>
+
 ### Clickable Images
 
 To make clickable images, you must embed one element inside another. This can be done in the following format:
