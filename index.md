@@ -19,3 +19,5 @@ Despite _Shelley v. Kraemer_ and Minnesota Statute 507.18, residential segregati
 - [**Lasting Disparities**](lasting-disparities.md)
   - [Suppressed Homeownership](supressed-homeownership.md)
   - [Unequal Opportunities](unequal-opportunities.md)
+
+TEMPORARY: <a href="embedding-html.md">HTML Tutorial</a>
