@@ -6,8 +6,12 @@ Although Markdown may be very easy to use, it is somewhat limited in what it can
 
 HTML is made up of elements and tags. An **element** is a piece of the website's content and either constitutes text enclosed by two tags or is a tag itself (this is called an empty element because it contains no text, just a tag). A **tag** instructs the browser how to display elements and is enclosed in angle brackets like this: `<tag>`. Except for standalone tags, all tags need a matching end tag in order to define where the element ends. An end tag looks like this: `</tag>`.
 
-- Example element: `<tag>text</tag>`
-- Example empty element: `<tag>`
+- Example element: `<p>text</p>`
+- Example empty element: `<br>`
+
+Some HTML elements contain **attributes**. Attributes contain additional information about an element and go in a start tag like this: `<tag attribute=___>`
+
+- Example start tag with an attribute: `<a href="index.md">`
 
 ## Embedding HTML in Markdown
 
@@ -25,7 +29,23 @@ You can also make single-spaced line breaks in HTML. Normally, Markdown only sup
 
 **HTML:** `Line 1<br>Line 2`<br>**Browser:**<br>Line 1<br>Line 2
 
-### Clickable Images ###
+### Colors
+
+You can color text or give text colorful backgrounds or borders using HTML. This can be done using the `<span>` tag, as well as the attribute `style=`.
+
+<ins>**Text Color:**</ins>
+
+**HTML:** `<span style="color:red;">Red Text</span>`<br>**Browser:** <span style="color:red;">Red Text</span>
+
+<ins>**Background Color:**</ins>
+
+**HTML:** `<span style="background-color:yellow;">Red Text</span>`<br>**Browser:** <span style="background-color:yellow;">Red Text</span>
+
+<ins>**Border Color:**</ins>
+
+**HTML:** `<span style="border:2px solid red;">Red Text</span>`<br>**Browser:** <span style="border:2px solid red;">Red Text</span>
+
+### Clickable Images
 
 To make clickable images, you must embed one element inside another. This can be done in the following format:
 
@@ -37,7 +57,7 @@ To make clickable images, you must embed one element inside another. This can be
 
 In this case, `<tag2>` is an empty element contained in the element defined by `<tag1>`.
 
-To make our clickable image, we will start with the `<a>` tag on the outside, which creates a hyperlink. The start tag will also include an <ins>attribute</ins>, which is additional information about an element that goes in a start tag. In this case, `href=` makes the element into a link. You can replace `index.md` with any other link or relative link (remember, a relative link goes to another page in the same repo).
+To make our clickable image, we will start with the `<a>` tag on the outside, which creates a hyperlink. The start tag will also include the `href=` attribute, which makes the element into a link. You can replace `index.md` with any other link or relative link (remember, a relative link goes to another page in the same repo).
 
 ```
 <a href=index.md>
